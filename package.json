@@ -41,6 +41,7 @@
     "postmantest": "yarn run transpile && yarn run postman"
   },
   "dependencies": {
+    "clone": "^2.1.1",
     "jquery": "^3.2.1",
     "jquery-ui": "^1.12.1",
     "superagent": "^3.5.2"
